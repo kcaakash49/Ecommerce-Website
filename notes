@@ -1,0 +1,58 @@
+userlayout , adminlayout
+Layout lai HOC ma maintain garnu parxa
+Outlet Property: children pass vako lai dekhauna ko lagi
+Route index represent first children
+Suspence for loading issue 
+
+Lazy Router for fast and low latency routing
+
+
+if tailwind doesnot work copy tailwind.config.js in chatGPT type give me content with publuc
+
+Tailwind COnfiguration
+
+name ko through bata backend ma data tanxa so be careful while using name
+
+{isModalOpen && ...}: This is a conditional rendering statement in JSX. It checks whether isModalOpen is true. If it is, it renders the content inside the parentheses.
+
+Sweep carosal sweeper
+slider
+
+onClick={() => handleCart([...new Set(appState?.addToCart)])}
+
+
+react:
+reduce
+storage
+slices
+Action
+
+
+# npm install react-redux
+# npm install @reduxjs/toolkit
+
+ "redux": "^5.0.1",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^3.1.0",
+     "react-redux": "^9.1.0",
+"@reduxjs/toolkit": "^2.2.3",
+
+for redux: create metaReducer, store, Rootreducer file
+
+asynchronous data fetching:
+axios fetch
+POST API
+GET 
+PUT 
+DELETE 
+
+
+asynchronous data handling ko lagi API fetch ko lagi serices folder
+
+slog or id to pass for path for product id in this code for example
+
+useParams and useLocation
+
+iframe to use location
+
+ 
